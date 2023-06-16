@@ -1,5 +1,5 @@
 <div align="center">
-Uma <a href="https://gustav0luiz.github.io/Pokedex/">Pokedex</a> feita com a API pokéAPI, inspirada no video do Manual do Dev.
+Uma <a target="_blank" href="https://gustav0luiz.github.io/Pokedex/">Pokedex</a> feita com a API pokéAPI, inspirada no video do Manual do Dev.
 </div>
 
 <div align="center">
